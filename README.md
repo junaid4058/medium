@@ -1,1 +1,1 @@
-This project is a tutorial of of iOS widgetKit
+This project is a tutorial of iOS widgetKit
